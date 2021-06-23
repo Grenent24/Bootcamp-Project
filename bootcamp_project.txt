@@ -1,0 +1,10 @@
+Enter the city name: ernakulam
+-------------------------------------------------------------
+Weather Stats for - ERNAKULAM  || 23 Jun 2021 | 02:29:46 PM
+-------------------------------------------------------------
+Current temperature is: 27.99 deg C
+Current weather desc  : moderate rain
+Current Humidity      : 89 %
+Current wind speed    : 3.92 kmph
+Current Pressure      : 1010 bar
+
